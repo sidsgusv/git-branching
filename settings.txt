@@ -1,6 +1,5 @@
 #This file is related to all settings setup
-#This part is for login setup
-
-Add some logic related to login set up
+#This part is for login setup of the project
 
 #This part is for DB setup
+Adding some changes in the logic related to DB connection
